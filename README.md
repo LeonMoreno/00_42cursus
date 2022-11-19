@@ -5,16 +5,15 @@
 </h1>
 
 <p align="center">
-	<b><i>Projects developed at <a href="https://www.42urduliz.com/">42 Urduliz</a> programming school.</i></b><br>
-	Start date: 19/jul/2021
+	<b><i>Projects developed at <a href="https://www.42quebec.com/">42 Québec</a> programming school.</i></b><br>
 </p>
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/surfi89/42cursus?color=lightblue" />
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/surfi89/42cursus?color=yellowgreen" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/surfi89/42cursus?color=yellow" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/surfi89/42cursus?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/surfi89/42cursus?color=green" />
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/LeonMoreno/00_42cursus?color=lightblue" />
+	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/LeonMoreno/00_42cursus?color=critical" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/LeonMoreno/00_42cursus?color=yellow" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/LeonMoreno/00_42cursus?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LeonMoreno/00_42cursus?color=green" />
 </p>
 
 <h3 align="center">
