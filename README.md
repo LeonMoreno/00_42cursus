@@ -1,11 +1,11 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/LeonMoreno/LeonMoreno/master/img/banner2.jpg" width="1000px" heigt="280px">
   
-	 Projects developed at 42 Québec programming school.
+	 Projects developed at 42 Québec programming school
 </h1>
 
 <h3 align="center">
-	<a href="#%EF%B8%8F-about-42">About 42</a>
+	<a href="about 42">About 42</a>
 	<span> · </span>
 	<a href="#%EF%B8%8F-skills-developed-at-42cursus">Skills developed at 42</a>
 	<span> · </span>
