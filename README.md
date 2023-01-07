@@ -4,14 +4,6 @@
 	 Projects developed at 42 Québec programming school
 </h1>
 
-<h3 align="center">
-	<a href="about 42">About 42</a>
-	<span> · </span>
-	<a href="#%EF%B8%8F-skills-developed-at-42cursus">Skills developed at 42</a>
-	<span> · </span>
-	<a href="#%EF%B8%8F-42s-Holy-Graph-(curriculum)">42's Holy Graph (curriculum)</a>
-</h3>
-
 ## 💡 About 42 School
 
 	Created in 2013 by Xavier Niel, a successful French serial entrepreneur, 42 has now become an
@@ -31,8 +23,8 @@
 
 ### Tech-skills
 
-	* C/C++ language,
-	* Bash,
+	* C/C++ language
+	* Bash
 	* Shell scripting
 	* Git
 	* Network Admin / SysAdmin
@@ -71,7 +63,7 @@ The **common core** is the basic curriculum, with all projects being mandatory t
 
 The **outer treks** is a collection of diverse project trails in subjects ranging from operational systems to web development which allows cadets to specialize on whatever subject they prefer.
 
-The table below presents the cursus curriculum in the chronological order in which it is being completed by me - projects order may vary.
+The table below presents the cursus curriculum in the chronological order in which it is being completed by me -- projects order may vary --.
 
 
 ### Common core (basic curriculum)
