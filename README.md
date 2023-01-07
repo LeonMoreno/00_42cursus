@@ -10,6 +10,7 @@
 	<a href="#%EF%B8%8F-skills-developed-at-42cursus">Skills developed at 42</a>
 	<span> · </span>
 	<a href="#%EF%B8%8F-42's-Holy-Graph-(curriculum)">42's Holy Graph (curriculum)</a>
+	<span> · </span>
 </h3>
 
 ## 💡 About 42 School
