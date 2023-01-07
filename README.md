@@ -7,9 +7,9 @@
 <h3 align="center">
 	<a href="#%EF%B8%8F-about-42">About 42</a>
 	<span> · </span>
-	<a href="#%EF%B8%8F-skills-developed-at-42cursus">Skills developed at 42cursus</a>
+	<a href="#%EF%B8%8F-skills-developed-at-42cursus">Skills developed at 42</a>
 	<span> · </span>
-	<a href="#-42s-galaxy-curriculum">42's Holy Graph (curriculum)</a>
+	<a href="#%EF%B8%8F-42s-galaxy-curriculum">42's Holy Graph (curriculum)</a>
 </h3>
 
 ## 💡 About 42 School
@@ -27,7 +27,7 @@
 	*2017 ranking of best coding schools made by the game computer programming platform CodinGame
 
 
-## 🛠️ Skills developed at 42cursus
+## 🛠️ Skills developed at 42
 
 ### Tech-skills
 
@@ -42,8 +42,6 @@
 	* Web (HTML, CSS, Wordpress)
 	* Computer graphics
 	* JavaScript
-
--- among others.
 
 ### Soft-skills
 
@@ -62,6 +60,8 @@
 		The school is open 24/7. Thus, the cadets are free to work whenever they want, which
 		demands excellent time management skills and resiliency for not "drowning" amid the
 		massive load of work demanded by the program.
+
+-- among others.
 
 ## 🌌 42's Holy Graph (curriculum)
 
