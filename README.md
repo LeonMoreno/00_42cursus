@@ -1,20 +1,8 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/LeonMoreno/LeonMoreno/master/img/42Quebec.png" width="200px">
+  <img src="https://raw.githubusercontent.com/LeonMoreno/LeonMoreno/master/img/banner2.jpg" width="1000px" heigt="280px">
   
-	42cursus
+	 Projects developed at 42 Québec programming school.
 </h1>
-
-<p align="center">
-	<b><i>Projects developed at <a href="https://www.42quebec.com/">42 Québec</a> programming school.</i></b><br>
-</p>
-
-<p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/LeonMoreno/00_42cursus?color=lightblue" />
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/LeonMoreno/00_42cursus?color=critical" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/LeonMoreno/00_42cursus?color=yellow" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/LeonMoreno/00_42cursus?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LeonMoreno/00_42cursus?color=green" />
-</p>
 
 <h3 align="center">
 	<a href="#%EF%B8%8F-about-42">About 42</a>
