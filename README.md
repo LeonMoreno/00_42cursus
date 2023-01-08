@@ -72,7 +72,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 | :----: | :----------------------------------------------------------- | :--------: | :-----------------------------------------------------------: |
 |00	 |[Libft](https://github.com/LeonMoreno/00_libft/)		        |C     | [![lmoreno's 42 Libft Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2339098)](https://github.com/JaeSeoKim/badge42) |
 |:dizzy:|						                |	     |						                     |
-|01	 |[get_next_line](https://github.com/LeonMoreno/get_next_line)	|C	     | [![lmoreno's 42 Libft Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2339098)](https://github.com/JaeSeoKim/badge42) |
+|01	 |[get_next_line](https://github.com/LeonMoreno/Get-Next-Line)	|C	     | [![lmoreno's 42 Libft Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2339098)](https://github.com/JaeSeoKim/badge42) |
 |01	 |[ft_printf](https://github.com/LeonMoreno/ft_printf)		|C	     | [![lmoreno's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2403131)](https://github.com/JaeSeoKim/badge42)|
 |01	 |[Born2beroot](https://github.com/LeonMoreno/Born2beroot)		|NetAdmin, LinuxAdmin    | [![lmoreno's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2408165)](https://github.com/JaeSeoKim/badge42)      |
 |:dizzy:|								|	     |							             |
