@@ -86,9 +86,9 @@ The table below presents the cursus curriculum in the chronological order in whi
 |03	 |[minishell](https://github.com/LeonMoreno/minishell)							|C,  Bash		|[![lmoreno's 42 minishell Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2605116)](https://github.com/JaeSeoKim/badge42)						     |
 |:dizzy:|								|		        |						     |
 |04	 |[NetPractice]()						|Networking		|[![lmoreno's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2660849)](https://github.com/JaeSeoKim/badge42)						     |
-|04	 |[miniRT]()							|C, Computer Graphics	|[![lmoreno's 42 miniRT Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2684648)](https://github.com/JaeSeoKim/badge42)						     |
-|04	 |[CPP Module_00]()						|C++			|[![lmoreno's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2790654)](https://github.com/JaeSeoKim/badge42)						     |
-|04	 |[CPP Module_01]()						|C++			|[![lmoreno's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2811404)](https://github.com/JaeSeoKim/badge42)						     |
+|04	 |[miniRT](https://github.com/LeonMoreno/MiniRT_AP_L)							|C, Computer Graphics	|[![lmoreno's 42 miniRT Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2684648)](https://github.com/JaeSeoKim/badge42)						     |
+|04	 |[CPP Module_00](https://github.com/LeonMoreno/piscine_cpp/tree/master/00_module)						|C++			|[![lmoreno's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2790654)](https://github.com/JaeSeoKim/badge42)						     |
+|04	 |[CPP Module_01](https://github.com/LeonMoreno/piscine_cpp/tree/master/01_module)						|C++			|[![lmoreno's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2811404)](https://github.com/JaeSeoKim/badge42)						     |
 |04	 |[CPP Module_02]()						|C++			|[![lmoreno's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2813149)](https://github.com/JaeSeoKim/badge42)						     |
 |04	 |[CPP Module_03]()						|C++			|[![lmoreno's 42 CPP Module 03 Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2823211)](https://github.com/JaeSeoKim/badge42)						     |
 |04	 |[CPP Module_04]()						|C++			|[![lmoreno's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2831761)](https://github.com/JaeSeoKim/badge42)						     |
