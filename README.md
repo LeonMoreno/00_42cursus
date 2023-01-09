@@ -1,13 +1,13 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/LeonMoreno/LeonMoreno/master/img/banner2.jpg" width="1000px" heigt="280px">
   
-	 Projects developed at 42 Québec programming school
+	 Projects developed at 42 Québec
 </h1>
 
 <h3 align="center">
 	<a href="#-about-42-school">About</a>
 	<span> · </span>
-	<a href="#-skills-developed-at-42">Skills</a>
+	<a href="#-skills-developed">Skills</a>
 	<span> · </span>
 	<a href="#-42's-holy-graph-(curriculum)">Portfolio</a>
 </h3>
@@ -27,7 +27,7 @@
 	*2017 ranking of best coding schools made by the game computer programming platform CodinGame
 
 
-## 🛠️ Skills developed at 42
+## 🛠️ Skills developed
 
 ### Tech-skills
 
