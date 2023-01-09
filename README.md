@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-	<a href="#-About 42 School">About</a>
+	<a href="#-about-42-school">About</a>
 	<span> · </span>
 	<a href="#-index">Index</a>
 	<span> · </span>
@@ -14,7 +14,7 @@
 	<a href="#-testing">Testing</a>
 </h3>
 
-## 💡 About 42 School<a name="about"></a>
+## 💡 About 42 School
 
 	Created in 2013 by Xavier Niel, a successful French serial entrepreneur, 42 has now become an
 	international reference for students and companies. Since then, the best computer programming
