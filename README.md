@@ -7,11 +7,9 @@
 <h3 align="center">
 	<a href="#-about-42-school">About</a>
 	<span> · </span>
-	<a href="#-index">Index</a>
+	<a href="#-skills-developed-at-42">Skills</a>
 	<span> · </span>
-	<a href="#%EF%B8%8F-usage">Usage</a>
-	<span> · </span>
-	<a href="#-testing">Testing</a>
+	<a href="#-42's-holy-graph-(curriculum)">Portfolio</a>
 </h3>
 
 ## 💡 About 42 School
