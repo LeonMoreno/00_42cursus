@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-	<a href="#-about-42-school">About</a>
+	<a href="#about-42-school">About</a>
 	<span> · </span>
 	<a href="#skills-developed">Skills</a>
 	<span> · </span>
