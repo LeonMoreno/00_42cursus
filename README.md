@@ -4,7 +4,7 @@
 	 Projects developed at 42 Québec
 </h1>
 
-[About 42 School](about-42-school)
+[About 42 School](#about-42-school)
 
 ## 💡 About 42 School
 
