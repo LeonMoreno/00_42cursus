@@ -102,10 +102,10 @@ The table below presents the cursus curriculum in the chronological order in whi
 |04	 |[CPP Module_08](https://github.com/LeonMoreno/piscine_cpp/tree/master/08_module)						|C++			|[![lmoreno's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2876193)](https://github.com/JaeSeoKim/badge42)						     |
 |04	 |Exam Rank 04							|-			|[![lmoreno's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2660862)](https://github.com/JaeSeoKim/badge42)						     |
 |:dizzy:|								|			|						     |
-|05	 |[ft_containers]()						|C			|[![lmoreno's 42 ft_containers Score]()						     |
-|05	 |[Inception]()							|C			|						     |
-|05	 |[webserv]()							|C			|						     |
-|05	 |[ft_irc]()							|C			|						     |
+|05	 |[ft_containers]()						|C++			|[![lmoreno's 42 ft_containers Score]()						     |
+|05	 |[Inception]()							|C++			|						     |
+|05	 |[webserv]()							|C++			|						     |
+|05	 |[ft_irc]()							|C++			|						     |
 |05	 |Exam Rank 05							|-			|[![lmoreno's 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2880515)](https://github.com/JaeSeoKim/badge42)						     |
 |:dizzy:|								|			|						     |
 |06	 |[ft_transcendence]()						|JavaScript			|						     |
