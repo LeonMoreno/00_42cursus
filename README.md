@@ -5,7 +5,7 @@
 </h1>
 
 - [About 42 School](#-about-42-school)
-- [Skills developed](#skills-developed)
+- [Skills developed](#id-skills)
 
 ## 💡 About 42 School
 
@@ -22,7 +22,7 @@
 	*2017 ranking of best coding schools made by the game computer programming platform CodinGame
 
 
-## 🛠️ Skills developed
+## 🛠️ Skills developed <a name="id-skills"></a>
 
 ### Tech-skills
 
