@@ -83,7 +83,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 |:dizzy:|								|			|						     |
 |03	 |Exam Rank 03							|-			|[![lmoreno's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2568756)](https://github.com/JaeSeoKim/badge42)					     |
 |03	 |[Philosophers](https://github.com/LeonMoreno/philosophers)						|C		|[![lmoreno's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2568912)](https://github.com/JaeSeoKim/badge42)						     |
-|03	 |[minishell]()							|C,  Bash		|[![lmoreno's 42 minishell Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2605116)](https://github.com/JaeSeoKim/badge42)						     |
+|03	 |[minishell](https://github.com/LeonMoreno/minishell)							|C,  Bash		|[![lmoreno's 42 minishell Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2605116)](https://github.com/JaeSeoKim/badge42)						     |
 |:dizzy:|								|		        |						     |
 |04	 |[NetPractice]()						|Networking		|[![lmoreno's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2660849)](https://github.com/JaeSeoKim/badge42)						     |
 |04	 |[miniRT]()							|C, Computer Graphics	|[![lmoreno's 42 miniRT Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2684648)](https://github.com/JaeSeoKim/badge42)						     |
