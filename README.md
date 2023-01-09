@@ -6,6 +6,7 @@
 
 - [About 42 School](#-about-42-school)
 - [Skills developed](#id-skills)
+- [Portfolio - 42's Holy Graph](#id-portfolio)
 
 ## 💡 About 42 School
 
@@ -58,7 +59,7 @@
 
 -- among others.
 
-## 42's Holy Graph (curriculum)
+## 42's Holy Graph (curriculum)  <a name="id-portfolio"></a>
 
 **42cursus** comprises two groups of projects: the first one being known as _"inner circle"_ or _"common core"_ and the second one, _"outer treks"_ - due to the **Holy Graph** layout.
 
