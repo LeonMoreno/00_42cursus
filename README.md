@@ -5,7 +5,7 @@
 </h1>
 
 - [About 42 School](#-about-42-school)
-- [Skills developed](#-skills-developed)
+- [Skills developed](#skills-developed)
 
 ## 💡 About 42 School
 
