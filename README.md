@@ -1,16 +1,16 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/LeonMoreno/LeonMoreno/master/img/banner2.jpg" width="1000px" heigt="280px">
   
-	 Projects developed at 42 Québec
+	 Projects developed at école 42 Québec
 </h1>
 
 - [About 42 School](#id-about)
 - [Skills developed](#id-skills)
 - [Portfolio - 42's Holy Graph](#id-portfolio)
 
-## 💡 About 42 School <a name="id-about"></a>
+## 💡 About 42 école <a name="id-about"></a>
 
-	Created in 2013 by Xavier Niel, a successful French serial entrepreneur, 42 has now become an
+	Created in 2013 by Xavier Niel, a successful French serial entrepreneur, école 42 has now become an
 	international reference for students and companies. Since then, the best computer programming
 	school in the world* has trained thousands of professionals, to help eliminate the shortage
 	of digital talents while addressing economic and technological mutations, thanks to the quality
@@ -42,7 +42,7 @@
 ### Soft-skills
 
 	# Self-learning and proactivity
-		At 42, self-learning is at the core of its peer to peer learning methodology. There
+		At école 42, self-learning is at the core of its peer to peer learning methodology. There
 		are no teachers whatsoever; the learning process is based on googling, enquiring
 		your classmates, and empirical knowledge, each student learning at their own pace.
 
@@ -53,7 +53,7 @@
 		contribute to the project.
 
 	# Time management and resiliency
-		The school is open 24/7. Thus, the cadets are free to work whenever they want, which
+		The école is open 24/7. Thus, the cadets are free to work whenever they want, which
 		demands excellent time management skills and resiliency for not "drowning" amid the
 		massive load of work demanded by the program.
 
