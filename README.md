@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-	<a href="#-About">About</a>
+	<a href="#-About 42 School">About</a>
 	<span> · </span>
 	<a href="#-index">Index</a>
 	<span> · </span>
