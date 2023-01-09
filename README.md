@@ -5,9 +5,9 @@
 </h1>
 
 <h3 align="center">
-	<a href="#about-42-school">About</a>
+	<a href="#-about-42-school">About</a>
 	<span> · </span>
-	<a href="#skills-developed">Skills</a>
+	<a href="#-skills-developed">Skills</a>
 	<span> · </span>
 	<a href="#-42's-holy-graph-(curriculum)">Portfolio</a>
 </h3>
