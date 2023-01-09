@@ -4,11 +4,11 @@
 	 Projects developed at 42 Québec
 </h1>
 
-- [About 42 School](#-about-42-school)
+- [About 42 School](#id-about)
 - [Skills developed](#id-skills)
 - [Portfolio - 42's Holy Graph](#id-portfolio)
 
-## 💡 About 42 School
+## 💡 About 42 School <a name="id-about"></a>
 
 	Created in 2013 by Xavier Niel, a successful French serial entrepreneur, 42 has now become an
 	international reference for students and companies. Since then, the best computer programming
