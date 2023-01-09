@@ -78,11 +78,11 @@ The table below presents the cursus curriculum in the chronological order in whi
 |:dizzy:|								|	     |							             |
 |02	 |Exam Rank 02							|-	| [![lmoreno's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2417686)](https://github.com/JaeSeoKim/badge42)	|
 |02	 |[so_long](https://github.com/LeonMoreno/so_long)							|C, Computer Graphics	| [![lmoreno's 42 so_long Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2433171)](https://github.com/JaeSeoKim/badge42)						     |
-|02	 |[pipex](https://github.com/LeonMoreno/minitalk)							|C	| [![lmoreno's 42 pipex Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2476555)](https://github.com/JaeSeoKim/badge42)						     |
+|02	 |[pipex](https://github.com/LeonMoreno/pipex)							|C	| [![lmoreno's 42 pipex Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2476555)](https://github.com/JaeSeoKim/badge42)						     |
 |02	 |[push_swap](https://github.com/LeonMoreno/push_swap)		|C	     | [![lmoreno's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2518226)](https://github.com/JaeSeoKim/badge42)|
 |:dizzy:|								|			|						     |
 |03	 |Exam Rank 03							|-			|[![lmoreno's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2568756)](https://github.com/JaeSeoKim/badge42)					     |
-|03	 |[Philosophers]()						|C		|[![lmoreno's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2568912)](https://github.com/JaeSeoKim/badge42)						     |
+|03	 |[Philosophers](https://github.com/LeonMoreno/philosophers)						|C		|[![lmoreno's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2568912)](https://github.com/JaeSeoKim/badge42)						     |
 |03	 |[minishell]()							|C,  Bash		|[![lmoreno's 42 minishell Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2605116)](https://github.com/JaeSeoKim/badge42)						     |
 |:dizzy:|								|		        |						     |
 |04	 |[NetPractice]()						|Networking		|[![lmoreno's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2660849)](https://github.com/JaeSeoKim/badge42)						     |
