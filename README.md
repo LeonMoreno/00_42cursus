@@ -80,10 +80,10 @@ The table below presents the cursus curriculum in the chronological order in whi
 |01	 |[ft_printf](https://github.com/LeonMoreno/ft_printf)		|C	     | [![ft_printf Score](img/100.svg)](https://github.com/LeonMoreno/ft_printf)|
 |01	 |[Born2beroot](https://github.com/LeonMoreno/Born2beroot)		|NetAdmin, LinuxAdmin    | [![Born2beRoot Score](img/125.svg)](https://github.com/LeonMoreno/Born2beroot)  |
 |:dizzy:|								|	     |							             |
-|02	 |Exam Rank 02							|-	| [![lmoreno's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2417686)](https://github.com/JaeSeoKim/badge42)	|
-|02	 |[so_long](https://github.com/LeonMoreno/so_long)							|C, Computer Graphics	| [![lmoreno's 42 so_long Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2433171)](https://github.com/JaeSeoKim/badge42)						     |
-|02	 |[pipex](https://github.com/LeonMoreno/pipex)							|C	| [![lmoreno's 42 pipex Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2476555)](https://github.com/JaeSeoKim/badge42)						     |
-|02	 |[push_swap](https://github.com/LeonMoreno/push_swap)		|C	     | [![lmoreno's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2518226)](https://github.com/JaeSeoKim/badge42)|
+|02	 |Exam Rank 02							|-	| [![42 Exam Rank 02 Score](img/100.svg)](https://leomoreno.tech) 	|
+|02	 |[so_long](https://github.com/LeonMoreno/so_long)|C, Computer Graphics	| [![so_long Score](img/110.svg)](https://github.com/LeonMoreno/so_long) |
+|02	 |[pipex](https://github.com/LeonMoreno/pipex) |C	| [![PiPex Score](img/121.svg)](https://github.com/LeonMoreno/pipex) |
+|02	 |[push_swap](https://github.com/LeonMoreno/push_swap)		|C	     | [![push_swap Score](img/98.svg)](https://github.com/LeonMoreno/push_swap)	 |
 |:dizzy:|								|			|						     |
 |03	 |Exam Rank 03							|-			|[![lmoreno's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2568756)](https://github.com/JaeSeoKim/badge42)					     |
 |03	 |[Philosophers](https://github.com/LeonMoreno/philosophers)						|C		|[![lmoreno's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2568912)](https://github.com/JaeSeoKim/badge42)						     |
