@@ -74,11 +74,11 @@ The table below presents the cursus curriculum in the chronological order in whi
 
 | Circle | Project                                                      |  Language  |                            Score                              |
 | :----: | :----------------------------------------------------------- | :--------: | :-----------------------------------------------------------: |
-|00	 |[Libft](https://github.com/LeonMoreno/00_libft/)		        |C     | [![lmoreno's 42 Libft Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2339098)](https://github.com/JaeSeoKim/badge42) |
+|00	 |[Libft](https://github.com/LeonMoreno/00_libft/)		        |C     | [![Libft Score](img/125.svg)](https://github.com/LeonMoreno/00_libft/) |
 |:dizzy:|						                |	     |						                     |
-|01	 |[get_next_line](https://github.com/LeonMoreno/Get-Next-Line)	|C	     | [![lmoreno's 42 Libft Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2339098)](https://github.com/JaeSeoKim/badge42) |
-|01	 |[ft_printf](https://github.com/LeonMoreno/ft_printf)		|C	     | [![lmoreno's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2403131)](https://github.com/JaeSeoKim/badge42)|
-|01	 |[Born2beroot](https://github.com/LeonMoreno/Born2beroot)		|NetAdmin, LinuxAdmin    | [![lmoreno's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2408165)](https://github.com/JaeSeoKim/badge42)      |
+|01	 |[get_next_line](https://github.com/LeonMoreno/Get-Next-Line)	|C	     | [![GNL Score](img/125.svg)](https://github.com/LeonMoreno/Get-Next-Line) |
+|01	 |[ft_printf](https://github.com/LeonMoreno/ft_printf)		|C	     | [![ft_printf Score](img/100.svg)](https://github.com/LeonMoreno/ft_printf)|
+|01	 |[Born2beroot](https://github.com/LeonMoreno/Born2beroot)		|NetAdmin, LinuxAdmin    | [![Born2beRoot Score](img/125.svg)](https://github.com/LeonMoreno/Born2beroot)  |
 |:dizzy:|								|	     |							             |
 |02	 |Exam Rank 02							|-	| [![lmoreno's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2417686)](https://github.com/JaeSeoKim/badge42)	|
 |02	 |[so_long](https://github.com/LeonMoreno/so_long)							|C, Computer Graphics	| [![lmoreno's 42 so_long Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2433171)](https://github.com/JaeSeoKim/badge42)						     |
