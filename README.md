@@ -75,41 +75,41 @@ The table below presents the cursus curriculum in the chronological order in whi
 | Circle | Project                                                      |  Language  |                            Score                              |
 | :----: | :----------------------------------------------------------- | :--------: | :-----------------------------------------------------------: |
 |00	 |[Libft](https://github.com/LeonMoreno/00_libft/)		        |C     | [![Libft Score](img/125.svg)](https://github.com/LeonMoreno/00_libft/) |
-|:dizzy:|						                |	     |						                     |
+|:key:|						                |	     |						                     |
 |01	 |[get_next_line](https://github.com/LeonMoreno/Get-Next-Line)	|C	     | [![GNL Score](img/125.svg)](https://github.com/LeonMoreno/Get-Next-Line) |
 |01	 |[ft_printf](https://github.com/LeonMoreno/ft_printf)		|C	     | [![ft_printf Score](img/100.svg)](https://github.com/LeonMoreno/ft_printf)|
 |01	 |[Born2beroot](https://github.com/LeonMoreno/Born2beroot)		|NetAdmin, LinuxAdmin    | [![Born2beRoot Score](img/125.svg)](https://github.com/LeonMoreno/Born2beroot)  |
-|:dizzy:|								|	     |							             |
-|02	 |Exam Rank 02							|-	| [![42 Exam Rank 02 Score](img/100.svg)](https://leomoreno.tech) 	|
+|:key:|								|	     |							             |
+|02	 |Exam Rank 02							|-	| [![42 Exam Rank 02 Score](img/100.svg)](https://leomoreno.tech) |
 |02	 |[so_long](https://github.com/LeonMoreno/so_long)|C, Computer Graphics	| [![so_long Score](img/110.svg)](https://github.com/LeonMoreno/so_long) |
 |02	 |[pipex](https://github.com/LeonMoreno/pipex) |C	| [![PiPex Score](img/121.svg)](https://github.com/LeonMoreno/pipex) |
 |02	 |[push_swap](https://github.com/LeonMoreno/push_swap)		|C	     | [![push_swap Score](img/98.svg)](https://github.com/LeonMoreno/push_swap)	 |
-|:dizzy:|								|			|						     |
-|03	 |Exam Rank 03							|-			|[![lmoreno's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2568756)](https://github.com/JaeSeoKim/badge42)					     |
-|03	 |[Philosophers](https://github.com/LeonMoreno/philosophers)						|C		|[![lmoreno's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2568912)](https://github.com/JaeSeoKim/badge42)						     |
-|03	 |[minishell](https://github.com/LeonMoreno/minishell)							|C,  Bash		|[![lmoreno's 42 minishell Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2605116)](https://github.com/JaeSeoKim/badge42)						     |
-|:dizzy:|								|		        |						     |
-|04	 |[NetPractice]()						|Networking		|[![lmoreno's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2660849)](https://github.com/JaeSeoKim/badge42)						     |
-|04	 |[miniRT](https://github.com/LeonMoreno/MiniRT_AP_L)							|C, Computer Graphics	|[![lmoreno's 42 miniRT Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2684648)](https://github.com/JaeSeoKim/badge42)						     |
-|04	 |[CPP Module_00](https://github.com/LeonMoreno/piscine_cpp/tree/master/00_module)						|C++			|[![lmoreno's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2790654)](https://github.com/JaeSeoKim/badge42)						     |
-|04	 |[CPP Module_01](https://github.com/LeonMoreno/piscine_cpp/tree/master/01_module)						|C++			|[![lmoreno's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2811404)](https://github.com/JaeSeoKim/badge42)						     |
-|04	 |[CPP Module_02](https://github.com/LeonMoreno/piscine_cpp/tree/master/02_module)						|C++			|[![lmoreno's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2813149)](https://github.com/JaeSeoKim/badge42)						     |
-|04	 |[CPP Module_03](https://github.com/LeonMoreno/piscine_cpp/tree/master/03_module)						|C++			|[![lmoreno's 42 CPP Module 03 Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2823211)](https://github.com/JaeSeoKim/badge42)						     |
-|04	 |[CPP Module_04](https://github.com/LeonMoreno/piscine_cpp/tree/master/04_module)						|C++			|[![lmoreno's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2831761)](https://github.com/JaeSeoKim/badge42)						     |
-|04	 |[CPP Module_05](https://github.com/LeonMoreno/piscine_cpp/tree/master/05_module)						|C++			|[![lmoreno's 42 CPP Module 05 Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2849995)](https://github.com/JaeSeoKim/badge42)						     |
-|04	 |[CPP Module_06](https://github.com/LeonMoreno/piscine_cpp/tree/master/06_module)						|C++			|[![lmoreno's 42 CPP Module 06 Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2865607)](https://github.com/JaeSeoKim/badge42)						     |
-|04	 |[CPP Module_07](https://github.com/LeonMoreno/piscine_cpp/tree/master/07_module)						|C++			|[![lmoreno's 42 CPP Module 07 Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2866826)](https://github.com/JaeSeoKim/badge42)						     |
-|04	 |[CPP Module_08](https://github.com/LeonMoreno/piscine_cpp/tree/master/08_module)						|C++			|[![lmoreno's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2876193)](https://github.com/JaeSeoKim/badge42)						     |
-|04	 |Exam Rank 04							|-			|[![lmoreno's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2660862)](https://github.com/JaeSeoKim/badge42)						     |
-|:dizzy:|								|			|						     |
-|05	 |[ft_containers]()						|C++			|[![lmoreno's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2880254)](https://github.com/JaeSeoKim/badge42)						     |
+|:key:|								|			|						     |
+|03	 |Exam Rank 03							|-  | [![42 Exam Rank 03 Score](img/100.svg)](https://leomoreno.tech) |
+|03	 |[Philosophers](https://github.com/LeonMoreno/philosophers)|C		| [![philo Score](img/125.svg)](https://github.com/LeonMoreno/philosophers)	     |
+|03	 |[minishell](https://github.com/LeonMoreno/minishell)	|C,  Bash |[![lmoreno's 42 minishell Score](img/125.svg)](https://github.com/LeonMoreno/minishell)				     |
+|:key:|								|		        |						     |
+|04	 |[NetPractice]()						|Networking		| [![NetPractice Score](img/100.svg)]()				     |
+|04	 |[miniRT](https://github.com/LeonMoreno/MiniRT_AP_L)	|C, Computer Graphics	| [![miniRT Score](img/100.svg)](https://github.com/LeonMoreno/MiniRT_AP_L)  |
+|04	 |[CPP Module_00](https://github.com/LeonMoreno/piscine_cpp/tree/master/00_module)|C++	|[![CPP Module 00 Score](img/100.svg)]() |
+|04	 |[CPP Module_01](https://github.com/LeonMoreno/piscine_cpp/tree/master/01_module)|C++	|[![CPP Module 01 Score](img/100.svg)]() |
+|04	 |[CPP Module_02](https://github.com/LeonMoreno/piscine_cpp/tree/master/02_module)|C++	|[![CPP Module 02 Score](img/100.svg)]() |
+|04	 |[CPP Module_03](https://github.com/LeonMoreno/piscine_cpp/tree/master/03_module)|C++	|[![CPP Module 03 Score](img/100.svg)]() |
+|04	 |[CPP Module_04](https://github.com/LeonMoreno/piscine_cpp/tree/master/04_module)|C++  |[![CPP Module 04 Score](img/100.svg)]() |
+|04	 |[CPP Module_05](https://github.com/LeonMoreno/piscine_cpp/tree/master/05_module)|C++	|[![CPP Module 05 Score](img/100.svg)]() |
+|04	 |[CPP Module_06](https://github.com/LeonMoreno/piscine_cpp/tree/master/06_module)|C++	|[![CPP Module 06 Score](img/100.svg)]() |
+|04	 |[CPP Module_07](https://github.com/LeonMoreno/piscine_cpp/tree/master/07_module)|C++	|[![CPP Module 07 Score](img/100.svg)]() |
+|04	 |[CPP Module_08](https://github.com/LeonMoreno/piscine_cpp/tree/master/08_module)|C++	|[![CPP Module 08 Score](img/100.svg)]() |
+|04	 |Exam Rank 04 | - | [![42 Exam Rank 04 Score](img/100.svg)]() |
+|:key:|								|			|						     |
+|05	 |[ft_containers]()						|C++			| [![ft_containers Score](img/suscri.svg)]()						     |
 |05	 |[Inception]()							|C++			|						     |
 |05	 |[webserv]()							|C++			|						     |
 |05	 |[ft_irc]()							|C++			|						     |
-|05	 |Exam Rank 05							|-			|[![lmoreno's 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/project/2880515)](https://github.com/JaeSeoKim/badge42)						     |
-|:dizzy:|								|			|						     |
+|05	 |Exam Rank 05							|-			|						     |
+|:key:|								|			|						     |
 |06	 |[ft_transcendence]()						|JavaScript			|						     |
 |06	 |Exam Rank 06							|-			|						     |
-|:dizzy:|								|			|						     | |
+|:key:|								|			|						     | |
 
 ------
