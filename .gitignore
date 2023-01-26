@@ -32,7 +32,4 @@ libft/libft.a
 
 # Object files
 *.o
-minishell
 
-# git
-.gitmodules
