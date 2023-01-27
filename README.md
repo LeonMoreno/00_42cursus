@@ -20,6 +20,8 @@
 	motivation**. The "C Piscine" is a 26-day C programming bootcamp, and the last stage in the
 	selection process for becoming a 42's student.
 	
+	*2021 42 gets international recognition by integrating 10th place in the Top 100  of the 
+	World Universities with Real Impact (WURI). 
 	*2017 ranking of best coding schools made by the game computer programming platform CodinGame
 
 
