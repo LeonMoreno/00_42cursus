@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/LeonMoreno/LeonMoreno/master/img/banner2.jpg" width="1000px" heigt="280px">
   
-	 Projects developed at école 42 Québec
+	 Projects developed at 42Québec
 </h1>
 
 - [About 42 School](#id-about)
