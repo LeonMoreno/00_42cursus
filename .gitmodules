@@ -1,3 +1,0 @@
-[submodule "00_libft"]
-	path = 00_libft
-	url = git@github.com:LeonMoreno/00_libft.git
