@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/LeonMoreno/LeonMoreno/master/img/banner2.jpg" width="1000px" heigt="280px">
   
-	 Projects developed at école 42 Québec
+	 Projects developed at 42Québec
 </h1>
 
 - [About 42 School](#id-about)
@@ -20,6 +20,8 @@
 	motivation**. The "C Piscine" is a 26-day C programming bootcamp, and the last stage in the
 	selection process for becoming a 42's student.
 	
+	*2021 42 gets international recognition by integrating 10th place in the Top 100  of the 
+	World Universities with Real Impact (WURI). 
 	*2017 ranking of best coding schools made by the game computer programming platform CodinGame
 
 
